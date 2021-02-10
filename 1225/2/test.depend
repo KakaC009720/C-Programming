@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545717809 source:c:\users\b1f04\desktop\test\calculate.c
+	"calculate.h"
+
+1545717423 c:\users\b1f04\desktop\test\calculate.h
+
+1545717730 source:c:\users\b1f04\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculate.h"
+
